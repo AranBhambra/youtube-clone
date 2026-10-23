@@ -15,7 +15,7 @@ Built while following [HTML & CSS Full Course - Beginner to Pro](https://www.you
 
 Open `index.html` in a browser.
 
-**Live demo:** : https://aranbhambra.github.io/youtube-clone/
+**Live demo:** https://aranbhambra.github.io/youtube-clone/
 
 ## Credits
 
